@@ -1,0 +1,5 @@
+name: Flask Taregar Test
+languages:
+  - python
+path:
+  - src
